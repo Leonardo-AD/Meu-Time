@@ -1,0 +1,15 @@
+:root {
+  font-family: Inter, sans-serif;
+  font-size: 62.5%;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-text-size-adjust: 100%;
+
+  --background-color: #F5BE49;
+  --highlight-color: #90ADC6;
+  --text-color: #272727;
+  --primary-color: #F5BE49;
+  --secondary-color: #F4F4F4;
+  --tertiary-color: #272727;
+}
