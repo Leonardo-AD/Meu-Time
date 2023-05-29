@@ -1,3 +1,3 @@
-import field from "./stadium.svg"
+import field from './stadium.svg'
 
 export { field }

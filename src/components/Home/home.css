@@ -10,6 +10,7 @@
     background: var(--secondary-color);
     padding: 2.8rem 4rem;
     border-radius: 1.2rem;
+    box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, .2);
 }
 
 .my-team__container-main p {
