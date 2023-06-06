@@ -10,13 +10,13 @@
     color: var(--text-color);
 }
 
-.my-team__container-main-search {
+.my-team__container-main-choice {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.my-team__container-main-search input {
+/* .my-team__container-main-search input {
     padding: .8rem;
     background: var(--secondary-color);
     border: 1px solid var(--text-color);
@@ -26,11 +26,11 @@
     font-size: 1.6rem;
     color: var(--text-color);
     outline: none;
-}
+} */
 
-.my-team__container-main-search input::placeholder {
+/* .my-team__container-main-search input::placeholder {
     font-size: 1.4rem;
-}
+} */
 
 .my-team__container-main-search button {
     padding: .3rem .8rem;
